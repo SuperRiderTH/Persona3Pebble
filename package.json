@@ -1,0 +1,158 @@
+{
+    "author": "Sean Srock",
+    "dependencies": {},
+    "keywords": [],
+    "name": "p3",
+    "pebble": {
+        "displayName": "Persona 3 Pebble",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/TOP_DARK.png",
+                    "name": "TOP_DARK",
+                    "targetPlatforms": [
+                        "basalt",
+                        "chalk",
+                        "emery"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/DARK_WORD.png",
+                    "name": "DARK_WORD",
+                    "targetPlatforms": [
+                        "basalt",
+                        "chalk",
+                        "emery"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/BACK_GREY.png",
+                    "name": "TOP_GREY",
+                    "targetPlatforms": [
+                        "basalt",
+                        "chalk",
+                        "emery"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/HUD_BACK_P3.png",
+                    "name": "TOP_P3",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/TOP_BLUE",
+                    "name": "TOP_BLUE",
+                    "targetPlatforms": [
+                        "basalt",
+                        "chalk",
+                        "emery"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/OpenSans-CondBold.ttf",
+                    "name": "FONT_OS_24",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/TS Block Bold.ttf",
+                    "name": "FONT_TS_24",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "images/HUD_DARK_BW.png",
+                    "name": "HUD_DARK_BW",
+                    "targetPlatforms": [
+                        "aplite",
+                        "diorite"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/HUD_BACK_BW.png",
+                    "name": "HUD_BACK_BW",
+                    "targetPlatforms": [
+                        "aplite",
+                        "diorite"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/HUD_NIGHT.png",
+                    "name": "HUD_NIGHT",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/HUD_DAYTIME.png",
+                    "name": "HUD_DAYTIME",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/HUD_E_MORNING.png",
+                    "name": "HUD_E_MORNING",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/HUD_EVENING.png",
+                    "name": "HUD_EVENING",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/HUD_MORNING.png",
+                    "name": "HUD_MORNING",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/HUD_LUNCH.png",
+                    "name": "HUD_LUNCH",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/HUD_AFTERNOON.png",
+                    "name": "HUD_AFTERNOON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/HUD_MOON.png",
+                    "name": "HUD_MOON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/HUD_L_NIGHT.png",
+                    "name": "HUD_LATE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "ad2abee9-8f65-44c8-a27a-6c0b76566fae",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
